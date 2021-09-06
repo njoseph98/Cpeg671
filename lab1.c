@@ -61,8 +61,8 @@ int main(int argc, char ** argv){
     //Question 2
     question2();
     //Question 3
-    //question3();
+    question3();
     //Question 4
-    //question4();
+    question4();
     return 0;
 }
